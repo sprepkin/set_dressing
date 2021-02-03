@@ -299,7 +299,7 @@ GameObject:
   - component: {fileID: 27555683}
   - component: {fileID: 27555682}
   m_Layer: 0
-  m_Name: Cube (14)
+  m_Name: southwestBuilding1.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -610,7 +610,7 @@ GameObject:
   - component: {fileID: 28512506}
   - component: {fileID: 28512505}
   m_Layer: 0
-  m_Name: Cube (13)
+  m_Name: southwestBuilding1.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -669,7 +669,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -1247,7 +1247,7 @@ GameObject:
   - component: {fileID: 88094037}
   - component: {fileID: 88094036}
   m_Layer: 0
-  m_Name: Cube (40)
+  m_Name: northeastBuildingStructure
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1306,7 +1306,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -1558,7 +1558,7 @@ GameObject:
   - component: {fileID: 101209843}
   - component: {fileID: 101209842}
   m_Layer: 0
-  m_Name: Cube (20)
+  m_Name: squareShop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1617,7 +1617,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -1869,7 +1869,7 @@ GameObject:
   - component: {fileID: 125478907}
   - component: {fileID: 125478906}
   m_Layer: 0
-  m_Name: Cube (44)
+  m_Name: edgeBuilding2.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1928,7 +1928,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -2832,7 +2832,7 @@ GameObject:
   - component: {fileID: 245027730}
   - component: {fileID: 245027729}
   m_Layer: 0
-  m_Name: longRoad
+  m_Name: mainRoad
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3450,7 +3450,7 @@ GameObject:
   - component: {fileID: 246881676}
   - component: {fileID: 246881675}
   m_Layer: 0
-  m_Name: Cube (35)
+  m_Name: eastWestRoad2SouthCurb
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3761,7 +3761,7 @@ GameObject:
   - component: {fileID: 285562689}
   - component: {fileID: 285562688}
   m_Layer: 0
-  m_Name: Cube (25)
+  m_Name: northSouthRoadEastCurb1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4724,7 +4724,7 @@ GameObject:
   - component: {fileID: 321811328}
   - component: {fileID: 321811327}
   m_Layer: 0
-  m_Name: Cube (28)
+  m_Name: centerEndBuildingBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4783,7 +4783,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -5198,7 +5198,7 @@ GameObject:
   - component: {fileID: 355247439}
   - component: {fileID: 355247438}
   m_Layer: 0
-  m_Name: Cube (45)
+  m_Name: edgeBuilding2.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5257,7 +5257,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -5835,7 +5835,7 @@ GameObject:
   - component: {fileID: 365486135}
   - component: {fileID: 365486134}
   m_Layer: 0
-  m_Name: Cube (41)
+  m_Name: northeastBuildingTop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5894,7 +5894,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -6309,7 +6309,7 @@ GameObject:
   - component: {fileID: 374644844}
   - component: {fileID: 374644843}
   m_Layer: 0
-  m_Name: Cube (15)
+  m_Name: RCCarSidewalkExtension
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6620,7 +6620,7 @@ GameObject:
   - component: {fileID: 390607363}
   - component: {fileID: 390607362}
   m_Layer: 0
-  m_Name: Cube (27)
+  m_Name: northSouthRoadEastCurb2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7257,7 +7257,7 @@ GameObject:
   - component: {fileID: 407301086}
   - component: {fileID: 407301085}
   m_Layer: 0
-  m_Name: Cube (7)
+  m_Name: mainCurbEast2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7568,7 +7568,7 @@ GameObject:
   - component: {fileID: 411558117}
   - component: {fileID: 411558116}
   m_Layer: 0
-  m_Name: Plane (5)
+  m_Name: mainRoadExtension2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7627,7 +7627,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -8186,7 +8186,7 @@ GameObject:
   - component: {fileID: 451769030}
   - component: {fileID: 451769029}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: squareCurbNorth
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8497,7 +8497,7 @@ GameObject:
   - component: {fileID: 471628481}
   - component: {fileID: 471628480}
   m_Layer: 0
-  m_Name: Cube (4)
+  m_Name: mainCurbWest1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8556,7 +8556,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -8808,7 +8808,7 @@ GameObject:
   - component: {fileID: 474484400}
   - component: {fileID: 474484399}
   m_Layer: 0
-  m_Name: Cube (39)
+  m_Name: northeastBuildingBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8867,7 +8867,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -9608,7 +9608,7 @@ GameObject:
   - component: {fileID: 497529502}
   - component: {fileID: 497529501}
   m_Layer: 0
-  m_Name: Cube (5)
+  m_Name: mainCurbEast1.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9667,7 +9667,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -9919,7 +9919,7 @@ GameObject:
   - component: {fileID: 503048850}
   - component: {fileID: 503048849}
   m_Layer: 0
-  m_Name: square
+  m_Name: squarePlane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11258,7 +11258,7 @@ GameObject:
   - component: {fileID: 568824003}
   - component: {fileID: 568824002}
   m_Layer: 0
-  m_Name: Cube (6)
+  m_Name: squareCurbWest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11569,7 +11569,7 @@ GameObject:
   - component: {fileID: 572279447}
   - component: {fileID: 572279446}
   m_Layer: 0
-  m_Name: Cube (31)
+  m_Name: recessedSidewalk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12043,7 +12043,7 @@ GameObject:
   - component: {fileID: 665619111}
   - component: {fileID: 665619110}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: shop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12517,7 +12517,7 @@ GameObject:
   - component: {fileID: 687908338}
   - component: {fileID: 687908337}
   m_Layer: 0
-  m_Name: Plane (3)
+  m_Name: northSouthRoadExtension1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13459,7 +13459,7 @@ GameObject:
   - component: {fileID: 743390822}
   - component: {fileID: 743390821}
   m_Layer: 0
-  m_Name: Cube (22)
+  m_Name: mainCurbWest3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13933,7 +13933,7 @@ GameObject:
   - component: {fileID: 797625083}
   - component: {fileID: 797625082}
   m_Layer: 0
-  m_Name: Plane (6)
+  m_Name: northwestIntersection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14551,7 +14551,7 @@ GameObject:
   - component: {fileID: 835657478}
   - component: {fileID: 835657477}
   m_Layer: 0
-  m_Name: Cube (26)
+  m_Name: northSouthRoadWestCurb2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14862,7 +14862,7 @@ GameObject:
   - component: {fileID: 849758240}
   - component: {fileID: 849758239}
   m_Layer: 0
-  m_Name: Cube (24)
+  m_Name: northSouthRoadWestCurb1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15499,7 +15499,7 @@ GameObject:
   - component: {fileID: 868799348}
   - component: {fileID: 868799347}
   m_Layer: 0
-  m_Name: Cube (37)
+  m_Name: northwestIntersectionCurb
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15558,7 +15558,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -15810,7 +15810,7 @@ GameObject:
   - component: {fileID: 880580727}
   - component: {fileID: 880580726}
   m_Layer: 0
-  m_Name: squareCurb
+  m_Name: squareCurbCenter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16284,7 +16284,7 @@ GameObject:
   - component: {fileID: 905999913}
   - component: {fileID: 905999912}
   m_Layer: 0
-  m_Name: Cube (46)
+  m_Name: bench
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16343,7 +16343,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -16595,7 +16595,7 @@ GameObject:
   - component: {fileID: 912551446}
   - component: {fileID: 912551445}
   m_Layer: 0
-  m_Name: Building1Section3
+  m_Name: Apartment1Section3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16906,7 +16906,7 @@ GameObject:
   - component: {fileID: 937758941}
   - component: {fileID: 937758940}
   m_Layer: 0
-  m_Name: Plane (1)
+  m_Name: mainRoadExtension1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17524,7 +17524,7 @@ GameObject:
   - component: {fileID: 962169633}
   - component: {fileID: 962169632}
   m_Layer: 0
-  m_Name: Cube (11)
+  m_Name: RCCarSidewalk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18081,7 +18081,7 @@ GameObject:
   - component: {fileID: 967372982}
   - component: {fileID: 967372981}
   m_Layer: 0
-  m_Name: Cube (33)
+  m_Name: car1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18140,7 +18140,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -18392,7 +18392,7 @@ GameObject:
   - component: {fileID: 986947164}
   - component: {fileID: 986947163}
   m_Layer: 0
-  m_Name: Cube (23)
+  m_Name: mainCurbEast3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19029,7 +19029,7 @@ GameObject:
   - component: {fileID: 1109099827}
   - component: {fileID: 1109099826}
   m_Layer: 0
-  m_Name: Cube (34)
+  m_Name: car2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19088,7 +19088,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -19340,7 +19340,7 @@ GameObject:
   - component: {fileID: 1112892331}
   - component: {fileID: 1112892330}
   m_Layer: 0
-  m_Name: Cube (18)
+  m_Name: movieTowerTop1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19399,7 +19399,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -20140,7 +20140,7 @@ GameObject:
   - component: {fileID: 1187660316}
   - component: {fileID: 1187660315}
   m_Layer: 0
-  m_Name: Cube (32)
+  m_Name: curbFill1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20614,7 +20614,7 @@ GameObject:
   - component: {fileID: 1195610732}
   - component: {fileID: 1195610731}
   m_Layer: 0
-  m_Name: Plane (4)
+  m_Name: eastWestRoad2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20673,7 +20673,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -21232,7 +21232,7 @@ GameObject:
   - component: {fileID: 1198252040}
   - component: {fileID: 1198252039}
   m_Layer: 0
-  m_Name: Cube (29)
+  m_Name: centerEndBuildingBaseTall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21291,7 +21291,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -21706,7 +21706,7 @@ GameObject:
   - component: {fileID: 1206916018}
   - component: {fileID: 1206916017}
   m_Layer: 0
-  m_Name: squareCurb (1)
+  m_Name: squareGrass
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22017,7 +22017,7 @@ GameObject:
   - component: {fileID: 1267532034}
   - component: {fileID: 1267532033}
   m_Layer: 0
-  m_Name: Cube (10)
+  m_Name: shopApartment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22076,7 +22076,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -22980,7 +22980,7 @@ GameObject:
   - component: {fileID: 1394915417}
   - component: {fileID: 1394915416}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: eastWestRoad1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23761,7 +23761,7 @@ GameObject:
   - component: {fileID: 1403135740}
   - component: {fileID: 1403135739}
   m_Layer: 0
-  m_Name: Cube (21)
+  m_Name: squareApartments
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23820,7 +23820,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -24235,7 +24235,7 @@ GameObject:
   - component: {fileID: 1428270549}
   - component: {fileID: 1428270548}
   m_Layer: 0
-  m_Name: Building1Section1
+  m_Name: Apartment1Section1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24873,7 +24873,7 @@ GameObject:
   - component: {fileID: 1475105915}
   - component: {fileID: 1475105914}
   m_Layer: 0
-  m_Name: Cube (30)
+  m_Name: recessedBuilding
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24932,7 +24932,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -25184,7 +25184,7 @@ GameObject:
   - component: {fileID: 1488618115}
   - component: {fileID: 1488618114}
   m_Layer: 0
-  m_Name: Building1Section2
+  m_Name: Apartment1Section2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25821,7 +25821,7 @@ GameObject:
   - component: {fileID: 1522332698}
   - component: {fileID: 1522332697}
   m_Layer: 0
-  m_Name: Stairs
+  m_Name: stairs1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26451,7 +26451,7 @@ GameObject:
   - component: {fileID: 1547755493}
   - component: {fileID: 1547755492}
   m_Layer: 0
-  m_Name: Cube (36)
+  m_Name: eastWestRoad2NorthCurb
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27088,7 +27088,7 @@ GameObject:
   - component: {fileID: 1600674406}
   - component: {fileID: 1600674405}
   m_Layer: 0
-  m_Name: Cube (9)
+  m_Name: mainCurbWest2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27725,7 +27725,7 @@ GameObject:
   - component: {fileID: 1656129560}
   - component: {fileID: 1656129559}
   m_Layer: 0
-  m_Name: Cube (16)
+  m_Name: movieTowerBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27784,7 +27784,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -28199,7 +28199,7 @@ GameObject:
   - component: {fileID: 1685682274}
   - component: {fileID: 1685682273}
   m_Layer: 0
-  m_Name: Cube (12)
+  m_Name: shopCurb
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28836,7 +28836,7 @@ GameObject:
   - component: {fileID: 1719617693}
   - component: {fileID: 1719617692}
   m_Layer: 0
-  m_Name: Plane (2)
+  m_Name: northSouthRoad
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29454,7 +29454,7 @@ GameObject:
   - component: {fileID: 1752746336}
   - component: {fileID: 1752746335}
   m_Layer: 0
-  m_Name: Cube (3)
+  m_Name: squareCurbEast
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29765,7 +29765,7 @@ GameObject:
   - component: {fileID: 1785408821}
   - component: {fileID: 1785408820}
   m_Layer: 0
-  m_Name: Stairs (2)
+  m_Name: stairs3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30558,7 +30558,7 @@ GameObject:
   - component: {fileID: 1802086592}
   - component: {fileID: 1802086591}
   m_Layer: 0
-  m_Name: Cube (8)
+  m_Name: mainCurbWest1.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30617,7 +30617,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -30869,7 +30869,7 @@ GameObject:
   - component: {fileID: 1816691678}
   - component: {fileID: 1816691677}
   m_Layer: 0
-  m_Name: Cube (43)
+  m_Name: bank
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30928,7 +30928,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -31343,7 +31343,7 @@ GameObject:
   - component: {fileID: 1843504631}
   - component: {fileID: 1843504630}
   m_Layer: 0
-  m_Name: Cube (19)
+  m_Name: movieTowerTop2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31402,7 +31402,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -31654,7 +31654,7 @@ GameObject:
   - component: {fileID: 1853595350}
   - component: {fileID: 1853595349}
   m_Layer: 0
-  m_Name: Cube (38)
+  m_Name: mainCurbEast4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31713,7 +31713,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -31965,7 +31965,7 @@ GameObject:
   - component: {fileID: 1863614627}
   - component: {fileID: 1863614626}
   m_Layer: 0
-  m_Name: Cube (17)
+  m_Name: movieTowerMainStructure
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32024,7 +32024,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -32602,7 +32602,7 @@ GameObject:
   - component: {fileID: 1969374939}
   - component: {fileID: 1969374938}
   m_Layer: 0
-  m_Name: Cube (42)
+  m_Name: edgeBuilding1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32913,7 +32913,7 @@ GameObject:
   - component: {fileID: 2020653087}
   - component: {fileID: 2020653086}
   m_Layer: 0
-  m_Name: Stairs (1)
+  m_Name: stairs2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33706,7 +33706,7 @@ GameObject:
   - component: {fileID: 2044037003}
   - component: {fileID: 2044037002}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: squareCurbSouth
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
